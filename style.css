@@ -13,6 +13,7 @@ body{
     background-color: var(--primaricolor);
     font-size: 1.8rem;
     font-family: 'Kumbh Sans', sans-serif;
+    overflow: hidden;
 }
 main{
     display: flex;
