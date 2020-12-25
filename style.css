@@ -124,6 +124,8 @@ main{
 /* Patterns container and images*/
 .pattern-top__container{
     position: relative;
+    width: 54.1rem;
+    height: auto;
     bottom: 85rem;
     right: 34rem;
     z-index: 2;
@@ -136,13 +138,15 @@ main{
 }
 .pattern-bot_container{
     position: relative;
-    bottom: 88rem;
+    width: 26rem;
+    height: auto;
+    bottom: 78rem;
     left: 22rem;
     z-index: 1;
 
 }
 .pattern-bottom{
-    width: 60rem;
+    width: 26rem;
     height: auto;
     object-fit: cover;
 }
