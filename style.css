@@ -141,4 +141,26 @@ body{
   width: 46rem;
   height: auto;
   object-fit: cover;
-} */
+}
+@media(min-width: 1366px){
+  .card_profile{
+    position: relative;
+    bottom: 3.7rem;
+  }  
+  .pattern-top__container{
+      left: -21rem;
+      bottom: 116.5rem;
+    }
+    .pattern-top{
+      width: 87rem;
+      height: auto;
+    }
+    .pattern-bot_container{
+      bottom: 128rem;
+      left: 69rem;
+    }
+    .pattern-bottom{
+      width:87rem;
+      height: auto;
+    }
+}
